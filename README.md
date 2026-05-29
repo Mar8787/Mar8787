@@ -21,7 +21,7 @@
 - Object-Oriented Programming (OOP)
 - MVC Architecture
 - REST API Development
-- JDBC
+- Relational Databases (MySQL)
 - CRUD Applications
 - Database Design
 - Agile Methodologies (Scrum)
